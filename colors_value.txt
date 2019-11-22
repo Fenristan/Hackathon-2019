@@ -1,0 +1,12 @@
+
+0 - a5f4f8    	// cold
+1 - c5fcff
+2 - dcffff
+3 - ecffff
+4 - f7ffff
+5 - ffffff
+6 - fff5e1
+7 - ffe5b5
+8 - f9d385
+9 - efbc45
+10- e9ab18	// warm	
